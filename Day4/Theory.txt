@@ -1,0 +1,8 @@
+ Modules
+ ----------
+ anything that can be imported we call it as Modules
+
+ to import modules from different directory use
+ from ..Day3 import func
+
+ 

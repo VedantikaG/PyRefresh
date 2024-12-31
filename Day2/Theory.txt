@@ -1,0 +1,13 @@
+Control statements
+1. Conditional
+   a. Simple if
+   b. If else
+   c. Else If
+   d. Nested
+2. Looping
+   a. For Looping
+         It end of data is known. 
+   b. While Looping
+         It is for Unexpected Data. We dont know how much quantity of data is there. 
+         It purely depends on condition.server know the amount of data.
+         Server donst know how many iterations are gping to take place, it just keeps on iteration over inc/dec

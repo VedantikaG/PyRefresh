@@ -1,0 +1,38 @@
+why design as a class
+a  class or any design is a me
+static : dynamocaaly allocating memory for the program
+in python everything is object
+
+Class: blueprint of an obj/app, design of requirement, any design is a class, does not have any mem things
+   should start  with capital letters,why
+     variables,function--->properties
+
+obj1 = Sample()
+obj1 is the reference name for sample class, 
+so therefore obj1 will be uses to access all the properties of class Sample
+
+self: current class object, default parameter, used when we are using class concept
+
+obj is created outside class only
+
+# Inheritance:
+
+Single 
+Multi Level
+Multiple
+Hierarchical
+Hybrid
+
+
+# Polymorphism
+
+Overriding
+
+# Abstraction
+
+hiding it from implementation 
+from abc import ABC, abstractmethod
+@abstractmethod: Mthod that doesnt contain only declarations NO implementations
+
+
+
